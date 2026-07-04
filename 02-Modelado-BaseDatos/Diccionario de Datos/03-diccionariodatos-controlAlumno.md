@@ -97,4 +97,4 @@ Descripción: Registra las materias inscritas por cada alumno.
 
 
 
-![Ejercicio1 Relacional](../../img/RELA/EjercicioRcional3.png)
+![Ejercicio1 Relacional](/img/R3.jpeg)

@@ -208,6 +208,6 @@ Almacena las diferentes ubicaciones físicas donde opera cada departamento de la
 
 ## 9. Diagrama Relacional
 
-![EjercicioRelacional](../../img/RELA/EjemploRelacional5PrimerModelo.png)
-![EjercicioRelacional](../../img/RELA/EjemploRelacional5segundoModelo.png)
+![EjercicioRelacional](/img/R5.jpeg)
+![EjercicioRelacional](/img/R6.jpeg)
 

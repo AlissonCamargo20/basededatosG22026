@@ -144,6 +144,4 @@ Almacena los productos incluidos en cada pedido.
 
 ## 9. Diagrama Relacional
 
-![Ejercicio1 Relacional](../../img/RELA/EjercicioRcional4.png)
-
-### este es el 4
+![Ejercicio1 Relacional](/img/R4.jpeg)

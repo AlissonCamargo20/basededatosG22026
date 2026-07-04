@@ -106,4 +106,4 @@ Almacena el expediente clínico de cada paciente.
 
 ## 9. Diagrama Relacional
 
-![Ejercicio1 Relacional](../../img/RELA/EjercicioRelacion1.png)
+![Ejercicio1 Relacional](/img/R1.jpeg)

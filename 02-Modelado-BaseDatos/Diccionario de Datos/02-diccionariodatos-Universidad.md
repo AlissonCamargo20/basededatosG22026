@@ -124,4 +124,4 @@ Almacena las especialidades de cada profesor.
 ## 9. Diagrama Relacional
 
 
-![Ejercicio1 Relacional](../../img/RELA/EjercicioRcional2.png)
+![Ejercicio1 Relacional](/img/R2.jpeg)

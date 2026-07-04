@@ -28,7 +28,7 @@ Un hospital registra informacion de sus pacientes:
 - Determinar la cardinalidad
 - Determinar la participación de cada entidad
 
-![Ejercicio1](/BaseDeDatos/img/EJR1.jpeg)
+![Ejercicio1](/img/EJR1.jpeg)
 
 ## Ejercicio 2.
 Una universidad administra profesores y cursos 
@@ -52,7 +52,7 @@ Una universidad administra profesores y cursos
 4. Todo curso debe estar asignado a un profesor
 
 --- 
-![Ejercicio2](/BaseDeDatos/img/EJR2.jpeg)
+![Ejercicio2](/img/EJR2.jpeg)
 
 ## Ejercicio 3.
 
@@ -82,7 +82,7 @@ Una escuela administra alumnos y materias
     
 Nota: a la relacion nombrarla **INSCRIBE**
 
-![Ejercicio3](/BaseDeDatos/img/EJR3.jpeg)
+![Ejercicio3](/img/EJR3.jpeg)
 
 ## Ejercicio 4
 
@@ -113,7 +113,7 @@ Una empresa dedicada a las ventas a por el mayor necesita registrar lo siguiente
 8. El detalle del pedido no existe sin producto
 9. El detalle almacena la cantidad vendida y el precio de venta.
 
-![Ejercicio4](/BaseDeDatos/img/EJR4.jpeg)
+![Ejercicio4](/img/EJR4.jpeg)
 
 
 ## Ejercicio 5
@@ -179,8 +179,8 @@ For each dependent, we store:
 - Birth date
 - Relationship to the employee
 
-![Ejercicio5](/BaseDeDatos/img/EJR5.jpeg)
+![Ejercicio5](/img/EJR5.jpeg)
 
 
 ## Ejercicio 6
-![Ejercico6](/BaseDeDatos/img/EJR6.jpeg)
+![Ejercico6](/img/EJR6.jpeg)
